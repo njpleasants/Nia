@@ -1,5 +1,5 @@
 # Hello, I'm Nia <span class="wave">👋</span>
-I am a full-stack developer living in Charlotte, NC. I am passionate about the animal welfare industry and using technology to make animal welfare organizations run more efficiently. 
+I am a full-stack developer living in Charlotte, NC. I am passionate about the animal welfare industry and using technology to make animal welfare organizations run more efficiently. <span class="cat">🐱</span> <span class="dog">🐶</span>
 
 My skills:
 
